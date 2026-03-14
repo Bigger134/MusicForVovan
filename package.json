@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Bigger134.github.io/music-prank",
+  "homepage": "https://bigger134.github.io/musicforvovan",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
